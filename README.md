@@ -5,7 +5,7 @@
 * Bachelors of Science (Computer Science), *Landmark University*, 2012-2016
 
 # [Project 1: Lung Cancer Detection](http://youtube.com/dataprofessor)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![alt text](lung CT Scan.jpg)
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

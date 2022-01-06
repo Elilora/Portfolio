@@ -1,5 +1,7 @@
 ## Nerat Luka Dazam
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*An Aspiring Data Scientist | 
+
+*I'm still working on this page
 
 # Education
 * Bachelors of Science (Computer Science), *Landmark University*, 

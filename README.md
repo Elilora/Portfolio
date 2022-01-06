@@ -20,7 +20,7 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 # [Project 2: Development of a text summarizer using Nlp and deep learning techniques]
 
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+This project makes use of ***natural language processing*** of text corpus ****** to provided summarizered version of text
 * **Python libraries used:** Streamlit, NLTK, TextRank
 * **Input:** Text Corpus
 * **Output:** summarizered text

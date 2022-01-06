@@ -21,7 +21,7 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+* **Python libraries used:** Streamlit, NLTK, TextRank
+* **Input:** Text Corpus
+* **Output:** summarizered text
 

@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nerat
 I am a Data science and Machine learning enthusiast.
 
-Skills: PYTHON || SQL || EXCEL
+Skills: PYTHON | SQL | EXCEL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PowerBI 
@@ -41,5 +41,6 @@ This project makes use of ***Natural Language Processing*** of text corpus to pr
 * **Input:** Text Corpus
 * **Output:** summarizered text
 
-Check out my GitHub:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Elilora)  
+Check out my Kaggle and Twitter Accounts:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/neratdazam/followers)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Elilora_Nerat?t=QVunV0FeS-1n5EygONXrcQ&s=09)  

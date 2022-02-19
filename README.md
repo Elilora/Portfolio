@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nerat
 I am a Data science and Machine learning enthusiast.
 
-Skills: PYTHON | SQL | EXCEL
+Skills: PYTHON / SQL / EXCEL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PowerBI 

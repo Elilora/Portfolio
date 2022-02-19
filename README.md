@@ -28,7 +28,7 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-This project uses lung Ct Scans to detect if a lung is benign, malignant or normal using various machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
+This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
 * **Python libraries used:** Scikit- learn, Natural Language processing, Python
 * **Input:** Message corpus
 * **Output:** Classification of messages (Spam or Ham)
@@ -36,7 +36,7 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 # [Project 3: Development of a text summarizer using Nlp and deep learning techniques]
 
 
-This project makes use of ***natural language processing*** of text corpus ****** to provided summarizered version of text
+This project makes use of ***Natural Language Processing*** of text corpus to provided summarizered version of text
 * **Python libraries used:** Streamlit, NLTK, TextRank
 * **Input:** Text Corpus
 * **Output:** summarizered text

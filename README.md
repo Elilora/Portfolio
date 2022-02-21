@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Nerat
 I am a Data science and Machine learning enthusiast.
 
-Skills: PYTHON / SQL / EXCEL
+Skills: PYTHON / SQL 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PowerBI 
+- 🌱 I’m currently learning PowerBI and MS Excel
 - 🤔 I’m looking for help with Data Science jobs 
 - 📫 How to reach me: neratdazam2@gmail.com 
 - 😄 Pronouns: She/Her 
@@ -26,7 +26,6 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 # [Project 2: Spam Text Detection]
 ![alt text]()
 
-Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
 * **Python libraries used:** Scikit- learn, Natural Language processing, Python

@@ -25,9 +25,9 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 * **Output:** Result of detection
 
 # [Project 2: Spam Text Detection](https://github.com/Elilora/Text-Classification)
-![alt text](lTextClassificationExample.jpg)
+![alt text](TextClassificationExample.png)
 
-Photo by <a href="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png"></a>
+Photo by <a href="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png">Google developers</a>
   
 This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
 * **Python libraries used:** Scikit- learn, Natural Language processing, Python
@@ -35,9 +35,9 @@ This project uses Text Message corpus to detect if a text message is spam or ham
 * **Output:** Classification of messages (Spam or Ham)
 
 # [Project 3: Development of a text summarizer using Nlp and deep learning techniques](https://github.com/Elilora/EaseSumApp)
-![alt text](Text Summarization.jpg)
+![alt text](Text Summarization.jpeg)
 
-Photo by <a href="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2"></a>
+Photo by <a href="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2">Microsft tech Community</a>
 
 This project makes use of ***Natural Language Processing*** of text corpus to provided summarizered version of text
 * **Python libraries used:** Streamlit, NLTK, TextRank

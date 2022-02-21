@@ -14,7 +14,7 @@ Skills: PYTHON / SQL
 
 Here are some of the projects I've worked on:
 
-# [Project 1: Lung Cancer Detection]
+# [Project 1: Lung Cancer Detection](https://github.com/Elilora/Lung-Cancer-Classification)
 ![alt text](lung CT Scan.jpg)
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -24,16 +24,20 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 * **Input:** Lung CT Scan
 * **Output:** Result of detection
 
-# [Project 2: Spam Text Detection]
+# [Project 2: Spam Text Detection](https://github.com/Elilora/Text-Classification)
+![alt text](lTextClassificationExample.jpg)
 
+Photo by <a href="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png"></a>
   
 This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
 * **Python libraries used:** Scikit- learn, Natural Language processing, Python
 * **Input:** Message corpus
 * **Output:** Classification of messages (Spam or Ham)
 
-# [Project 3: Development of a text summarizer using Nlp and deep learning techniques]
+# [Project 3: Development of a text summarizer using Nlp and deep learning techniques](https://github.com/Elilora/EaseSumApp)
+![alt text](Text Summarization.jpg)
 
+Photo by <a href="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2"></a>
 
 This project makes use of ***Natural Language Processing*** of text corpus to provided summarizered version of text
 * **Python libraries used:** Streamlit, NLTK, TextRank

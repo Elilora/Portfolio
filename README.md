@@ -24,7 +24,6 @@ This project uses lung Ct Scans to detect if a lung is benign, malignant or norm
 * **Output:** Result of detection
 
 # [Project 2: Spam Text Detection]
-![alt text]()
 
   
 This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.

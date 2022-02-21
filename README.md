@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nerat
-I am a Data science and Machine learning enthusiast.
+
+I am a Data sciene and Machine learning enthusiast.
 
 Skills: PYTHON / SQL 
 

@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-This project uses lung Ct Scans to detect if a lung is benign, malignant or normal using various machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
+This project uses lung Ct Scans to detect if a lung CT scan is benign, malignant or normal using various machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
 * **Python libraries used:** Streamlit, Scikit- learn, SVM, KNN, Decision Tree, and Random Forest
 * **Input:** Lung CT Scan
 * **Output:** Result of detection

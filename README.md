@@ -15,7 +15,7 @@ Skills: PYTHON / SQL
 Here are some of the projects I've worked on:
 
 # [Project 1: Lung Cancer Detection](https://github.com/Elilora/Lung-Cancer-Classification)
-<img src="lungCTScan.jpg" width="350" height="350">
+<img src="lungCTScan.jpg" width="650" height="350">
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

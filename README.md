@@ -45,7 +45,7 @@ This project makes use of ***Natural Language Processing*** of text corpus to pr
 * **Output:** summarizered text
 
 # [Project 3: Stroke Prediction](https://github.com/Elilora/Stroke-Prediction)
-![alt text](Brain-Attack-Stroke.jpg){height=400px width=500px}
+![alt text](Brain-Attack-Stroke.jpg = 250x250)
 
 Photo by <a href="[https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2](https://www.istockphoto.com/photo/man-with-brain-stroke-symptoms-gm1168179084-322448882?utm_medium=organic&utm_source=google&utm_campaign=iptcurl)">istockphoto</a>
 

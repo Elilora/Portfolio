@@ -15,7 +15,7 @@ Skills: PYTHON / SQL
 Here are some of the projects I've worked on:
 
 # [Project 1: Lung Cancer Detection](https://github.com/Elilora/Lung-Cancer-Classification)
-![alt text](lungCTScan.jpg)
+<img src="lungCTScan.jpg" width="350" height="350">
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -25,7 +25,7 @@ This project uses lung Ct Scans to detect if a lung CT scan is benign, malignant
 * **Output:** Result of detection
 
 # [Project 2: Spam Text Detection](https://github.com/Elilora/Text-Classification)
-![alt text](TextClassificationExample.png)
+<img src="TextClassificationExample.png" width="350" height="350">
 
 Photo by <a href="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png">Google developers</a>
   

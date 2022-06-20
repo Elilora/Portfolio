@@ -15,7 +15,7 @@ Skills: PYTHON / SQL
 Here are some of the projects I've worked on:
 
 # [Project 1: Lung Cancer Detection](https://github.com/Elilora/Lung-Cancer-Classification)
-![alt text](lung CT Scan.jpg)
+![alt text](lungCTScan.jpg)
 
 Photo by <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/s/photos/lung-cancer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -35,7 +35,7 @@ This project uses Text Message corpus to detect if a text message is spam or ham
 * **Output:** Classification of messages (Spam or Ham)
 
 # [Project 3: Development of a text summarizer using Nlp and deep learning techniques](https://github.com/Elilora/EaseSumApp)
-![alt text](Text Summarization.jpeg)
+![alt text](TextSummarization.jpeg)
 
 Photo by <a href="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2">Microsft tech Community</a>
 
@@ -45,8 +45,7 @@ This project makes use of ***Natural Language Processing*** of text corpus to pr
 * **Output:** summarizered text
 
 # [Project 3: Stroke Prediction](https://github.com/Elilora/Stroke-Prediction)
-![alt text](Brain-Attack-Stroke.jpg |width=250)
-<img src="Brain-Attack-Stroke.jpg" width="324" height="324">
+<img src="Brain-Attack-Stroke.jpg" width="250" height="250">
 
 Photo by <a href="[https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2](https://www.istockphoto.com/photo/man-with-brain-stroke-symptoms-gm1168179084-322448882?utm_medium=organic&utm_source=google&utm_campaign=iptcurl)">istockphoto</a>
 

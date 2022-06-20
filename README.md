@@ -35,7 +35,7 @@ This project uses Text Message corpus to detect if a text message is spam or ham
 * **Output:** Classification of messages (Spam or Ham)
 
 # [Project 3: Development of a text summarizer using Nlp and deep learning techniques](https://github.com/Elilora/EaseSumApp)
-![alt text](TextSummarization.jpeg)
+<img src="TextSummarization.jpeg" width="350" height="350">
 
 Photo by <a href="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2">Microsft tech Community</a>
 
@@ -45,7 +45,7 @@ This project makes use of ***Natural Language Processing*** of text corpus to pr
 * **Output:** summarizered text
 
 # [Project 3: Stroke Prediction](https://github.com/Elilora/Stroke-Prediction)
-<img src="Brain-Attack-Stroke.jpg" width="250" height="250">
+<img src="Brain-Attack-Stroke.jpg" width="350" height="350">
 
 Photo by <a href="[https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2](https://www.istockphoto.com/photo/man-with-brain-stroke-symptoms-gm1168179084-322448882?utm_medium=organic&utm_source=google&utm_campaign=iptcurl)">istockphoto</a>
 

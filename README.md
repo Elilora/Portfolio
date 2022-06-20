@@ -30,7 +30,7 @@ This project uses lung Ct Scans to detect if a lung CT scan is benign, malignant
 Photo by <a href="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png">Google developers</a>
   
 This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
-* **Python libraries used:** Scikit- learn, Natural Language processing, Python
+* **Python libraries used:** Scikit-learn, Natural Language Processing ToolKit 
 * **Input:** Message corpus
 * **Output:** Classification of messages (Spam or Ham)
 
@@ -43,6 +43,16 @@ This project makes use of ***Natural Language Processing*** of text corpus to pr
 * **Python libraries used:** Streamlit, NLTK, TextRank
 * **Input:** Text Corpus
 * **Output:** summarizered text
+
+# [Project 3: Stroke Prediction](https://github.com/Elilora/Stroke-Prediction)
+![alt text](Brain-Attack-Stroke.jpeg)
+
+Photo by <a href="[https://techcommunity.microsoft.com/t5/image/serverpage/image-id/180981i9EA877DDFF97D50D?v=v2](https://www.istockphoto.com/photo/man-with-brain-stroke-symptoms-gm1168179084-322448882?utm_medium=organic&utm_source=google&utm_campaign=iptcurl)">istockphoto</a>
+
+In this project three classifiers were used:Random Forest Classifier with 95% accuracy, Decision Tree Classifier with 91% accuracy, Support Vector Classifier with 95% accuracy.These classifiers were used to build models to that predicts if an individual has stroke or not.
+* **Python libraries used:** Scikit-learn,Pandas, Shap, Seaborn, Matplotlib
+* **Input:** Stroke Prediction Dataset
+* **Output:** Predicted output
 
 Check out my Kaggle and Twitter Accounts:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/neratdazam/followers)

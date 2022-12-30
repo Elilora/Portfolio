@@ -2,10 +2,10 @@
 
 I am a Data sciene and Machine learning enthusiast.
 
-Skills: PYTHON / SQL 
+Skills: PYTHON / SQL / MS EXCEL /KOBO TOOLBOX
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PowerBI and MS Excel
+- 🌱 I’m currently learning PowerBi.
 - 🤔 I’m looking for help with Data Science jobs 
 - 📫 How to reach me: neratdazam2@gmail.com 
 - 😄 Pronouns: She/Her 

@@ -29,7 +29,7 @@ This project uses lung Ct Scans to detect if a lung CT scan is benign, malignant
 
 Photo by <a href="https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png">Google developers</a>
   
-This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Ddecision tree classifier and random forest classifier.
+This project uses Text Message corpus to detect if a text message is spam or ham using machine learning techniques like SVM classifier, KNN classifier, Decision tree classifier and random forest classifier.
 * **Python libraries used:** Scikit-learn, Natural Language Processing ToolKit 
 * **Input:** Message corpus
 * **Output:** Classification of messages (Spam or Ham)

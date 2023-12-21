@@ -59,9 +59,6 @@ In this project three classifiers were used:Random Forest Classifier with 95% ac
 * **Input:** Stroke Prediction Dataset
 * **Output:** Predicted output
 
-Check out my Kaggle and Twitter Accounts:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/neratdazam/followers)
-)  
 
 <h3 align="left">Connect with me and check out my accounts:
 </h3>

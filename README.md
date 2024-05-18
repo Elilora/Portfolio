@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning **Ml deployment, PowerBI, LLMs, Generative AI**
-- 🤔 I’m looking for help with Data Science jobs 
+- 🤔 I’m looking for Data Science jobs 
 - 📫 How to reach me: neratdazam2@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I love gardening and decorating 

@@ -27,9 +27,9 @@ Photo by <a href="https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleC
   
 This project analyzes streaming data from Spotify, a leading music streaming platform. An interactive dashboard is developed with PoerBI which offers insights into user listening habits, popular genres, artist trends, and more. By analyzing Spotify's vast dataset, the dashboard will provide valuable information for understanding user preferences and optimizing content recommendations.
 
-Tool used: Power BI
-Input: Spotify streaming data
-Output: Interactive dashboard showcasing insights and trends in music streaming data
+* **Tool:**  Power BI
+* **Input:** Spotify streaming data
+* **Output:**  Interactive dashboard showcasing insights and trends in music streaming data
 
 ## [Project 2: Market Basket Analysis and Customer Segmentation](https://github.com/Elilora/Market-basket-analysis)
 <img src="Market.png" width="650" height="350">

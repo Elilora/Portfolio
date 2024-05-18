@@ -19,11 +19,11 @@ Skills: PYTHON / SQL / MS EXCEL /KOBO TOOLBOX
 
 Here are some of the projects I've worked on:
 
-# Analysis
+# Data Analysis
 ## [Project 1: Sportify Streaming Analysis ](https://github.com/Elilora/Lung-Cancer-Classification)
 <img src="Streams_Analysis.png" width="650" height="350">
 
-Photo by <a href="(https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleCompetition-FTRHeader_V2-1440x733.png)">Spotify</a> on <a href="(https://newsroom.spotify.com/)">Spotify/a>
+Photo by <a href="(https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleCompetition-FTRHeader_V2-1440x733.png)">Spotify</a> on <a href="(https://newsroom.spotify.com/)">Spotify</a>
   
 This project analyzes streaming data from Spotify, a leading music streaming platform. An interactive dashboard is developed with PoerBI which offers insights into user listening habits, popular genres, artist trends, and more. By analyzing Spotify's vast dataset, the dashboard will provide valuable information for understanding user preferences and optimizing content recommendations.
 

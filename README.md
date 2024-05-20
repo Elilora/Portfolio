@@ -3,9 +3,9 @@
 <h3 align="center">A passionate data scientist and Machine learning enthusiast. </h3>
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning **Ml deployment, PowerBI, LLMs, Generative AI**
+- 🌱 I’m currently learning **ML deployment, PowerBI, LLMs, Generative AI**
 - 🤔 I’m looking for Data Science jobs 
-- 📫 How to reach me: neratdazam2@gmail.com 
+- 📫 How to reach me: neratldazam@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I love gardening and decorating 
 - 📒 Education: Bachelor of Science (Computer Science), *Landmark University*, Master of Science Data Science (In view), *Heriot Watt University*

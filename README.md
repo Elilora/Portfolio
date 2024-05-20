@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nerat</h1>
 
-<h3 align="center">A passionate data scientist and Machine learning enthusiast. </h3>
+<h3 align="center">A passionate Data scientist and Machine learning enthusiast. </h3>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning **ML deployment, PowerBI, LLMs, Generative AI**

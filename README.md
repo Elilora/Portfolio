@@ -90,7 +90,6 @@ In this project three classifiers were used: Random Forest Classifier with 95% a
 <h3 align="left">Connect with me and check out my accounts:
 </h3>
 <p align="left">
-<p align="left"> <a href="https://twitter.com/@elilora_nerat" target="blank"><img src="https://img.shields.io/twitter/follow/@elilora_nerat?logo=twitter&style=for-the-badge" alt="@elilora_nerat" /></a> </p>
 <a href="https://twitter.com/Elilora_Nerat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elilora_nerat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neratdazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nerat dazam" height="30" width="40" /></a>
 <a href="https://kaggle.com/nerat dazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nerat dazam" height="30" width="40" /></a>

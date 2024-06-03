@@ -24,7 +24,7 @@ Skills: PYTHON / SQL / MS EXCEL / KOBO TOOLBOX / POWERBI / JAVA/ D3 JAVASCRIPT /
 Here are some of the projects I've worked on:
 
 # Data Analysis
-## [Project 1: Sportify Streaming Analysis ](https://app.powerbi.com/groups/me/reports/f27d5349-37d1-491e-862f-402d4866dcd1/ReportSection?experience=power-bi)
+## [Project 1: Spotify Streaming Analysis ](https://app.powerbi.com/groups/me/reports/f27d5349-37d1-491e-862f-402d4866dcd1/ReportSection?experience=power-bi)
 <img src="Streams_Analysis.png" width="650" height="350">
 
 Photo by <a href="https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleCompetition-FTRHeader_V2-1440x733.png">Spotify</a> on <a href="https://newsroom.spotify.com/">Spotify</a>

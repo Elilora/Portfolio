@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nerat</h1>
+<h1 align="center">Hi 👋, I'm Nerat Dazam</h1>
 
 <h3 align="center">A passionate Data scientist and Machine learning enthusiast. </h3>
 
